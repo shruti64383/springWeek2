@@ -8,6 +8,7 @@ public class SpringWeek2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringWeek2Application.class, args);
+		System.out.println("hellogit status");
 	}
 
 }
